@@ -48,4 +48,4 @@ db.sequelize.sync().then(() => {
   });
 });
 
-//commit
+//commit 
